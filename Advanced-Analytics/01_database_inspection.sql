@@ -1,6 +1,7 @@
 /*
 ===============================================================================
-Database Exploration
+Database Exploration:
+Look at the tables in the datbase to get an overall idea 
 ===============================================================================
 Purpose:
     - To explore the structure of the database, including the list of tables and their schemas.
