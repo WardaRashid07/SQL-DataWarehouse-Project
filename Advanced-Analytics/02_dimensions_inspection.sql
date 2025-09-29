@@ -1,7 +1,8 @@
 
 /*
 ===============================================================================
-Dimensions Exploration
+Dimensions Exploration:
+Look at the data and identify dimensions and measures
 ===============================================================================
 Purpose:
     - To explore the structure of dimension tables.
