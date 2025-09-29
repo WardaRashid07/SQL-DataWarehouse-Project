@@ -1,6 +1,7 @@
 /*
 ===============================================================================
-Measures Exploration (Key Metrics)
+Measures Exploration (Key Metrics):
+Look at the data and identify the measures ad dimensions
 ===============================================================================
 Purpose:
     - To calculate aggregated metrics (e.g., totals, averages) for quick insights.
