@@ -78,8 +78,22 @@ View the full project plan here: [https://www.notion.so/Data-Warehouse-Project-2
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 🌟 About Me
+## ✨ The Golden Rule  
+**Dimensions give context, Measures give value.**  
+Together, they turn data into insights that drive decisions.
 
-Hi there! I'm **Baraa Khatib Salkini**, also known as **Data With Baraa**. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+---
 
-Let's stay in touch! Feel free to connect wi
+## 📋 Your Takeaway Checklist  
+Before you build your next chart or write a `GROUP BY` query, ask:
+
+- What are my categories (**Dimensions**)? *(The "by what?")*  
+- What are my numbers (**Measures**)? *(The "what am I calculating?")*
+
+---
+
+## Acknowledgments  
+A huge thank you to **Baraa Khatib Salkini** and his channel *Data with Baraa* — these techniques and concepts are heavily inspired by his clear and practical way of teaching data fundamentals.  
+If you want to deepen your skills, I highly recommend checking out his content!
+
+---
